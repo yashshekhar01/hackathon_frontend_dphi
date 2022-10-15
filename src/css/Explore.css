@@ -1,0 +1,84 @@
+.Exp{
+    position: absolute;
+width: 1440px;
+height: 324px;
+left: 0px;
+top: 1731px;
+
+background: #002A3B;
+}
+
+.Heading{
+    position: absolute;
+width: 353px;
+height: 40px;
+left: calc(50% - 353px/2 - 0.5px);
+top: 72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 40px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.search{
+    position: absolute;
+width: 829px;
+height: 50px;
+left: 238px;
+top: 176px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 50px rgba(111, 111, 111, 0.1);
+border-radius: 12px;
+}
+::placeholder{
+
+    position: absolute;
+    left: 67px;
+    top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 20px;
+
+
+color: #858585;
+}
+.filter{
+    box-sizing: border-box;
+
+position: absolute;
+width: 110px;
+height: 50px;
+left: 1092px;
+top: 176px;
+
+background: #FFFFFF;
+border: 1px solid #EAEAEA;
+border-radius: 12px;
+}
+.filterValue{
+    position: absolute;
+    top: 12px;
+    left: 23px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+
+color: #000000;
+}

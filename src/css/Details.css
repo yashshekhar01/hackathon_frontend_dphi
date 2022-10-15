@@ -1,0 +1,163 @@
+.DetailsBox{
+position: absolute;
+width: 1441px;
+height: 200px;
+left: -1px;
+top: 625px;
+background: #002A3B;
+}
+.Item1{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 183px;
+    top: 72px;
+    background: #F2F4FF;
+    border-radius: 15px;
+}
+.Image1{
+    background-image: url(../assets/Image1.png);
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 13px;
+}
+.th1{
+    position: absolute;
+width: 157px;
+height: 17px;
+left: 260px;
+top: 80px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+color: #FFFFFF;
+}
+.sh1{
+    position: absolute;
+width: 169px;
+height: 17px;
+left: 260px;
+top: 105px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+
+color: #FFFFFF;
+}
+
+.Item2{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 608px;
+top: 72px;
+background: #F2F4FF;
+border-radius: 15px;
+}
+.Image2{
+    background-image: url(../assets/Image2.png);
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 13px;
+}
+
+.th2{
+    position: absolute;
+width: 83px;
+height: 17px;
+left: 695px;
+top: 81px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+/* or 83% */
+
+
+color: #FFFFFF;
+}
+.sh2{
+    position: absolute;
+width: 135px;
+height: 17px;
+left: 695px;
+top: 106px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+
+color: #FFFFFF;
+}
+.Item3{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 1010px;
+top: 72px;
+
+background: #F2F4FF;
+border-radius: 15px;
+}
+
+.Image3{
+    background-image: url(../assets/Image3.png);
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 13px;
+}
+
+.th3{
+    position: absolute;
+width: 120px;
+height: 17px;
+left: 1086px;
+top: 81px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+/* or 83% */
+
+
+color: #FFFFFF;
+}
+
+.sh3{
+    position: absolute;
+width: 172px;
+height: 17px;
+left: 1086px;
+top: 106px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+
+color: #FFFFFF;
+}

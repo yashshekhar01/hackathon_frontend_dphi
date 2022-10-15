@@ -1,0 +1,77 @@
+
+.Header{
+position: absolute;
+width: 1442px;
+height: 625px;
+left: -1px;
+
+background: #003145;
+
+}
+
+.rocket{
+position: absolute;    
+height: 294.0000012476094px;
+width: 242.0000010269438px;
+left: 1050.3359375px;
+top: 170px;
+border-radius: 0px;
+
+transform: rotate(21.41deg);
+
+}
+
+.MainHeading{
+    
+position: absolute;
+width: 643px;
+height: 112px;
+left: 205px;
+top: 190px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+
+
+
+color: #FFFFFF;
+}
+
+.SubHeading{
+    position: absolute;
+width: 531px;
+height: 112px;
+left: 205px;
+top: 340px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+
+
+color: #ECECEC;
+}
+
+
+.Create{
+    position: absolute;
+    width: 198px;
+    height: 47px;
+    left: 205px;
+    top: 489px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+    color: #003145;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+
